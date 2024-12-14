@@ -7,6 +7,6 @@
 
 ## Group Members 
 
-Rajesh Ayyappan Pillai
-Bryan Cabrera
-Candice Garcia
+- Rajesh Ayyappan Pillai
+- Bryan Cabrera
+- Candice Garcia

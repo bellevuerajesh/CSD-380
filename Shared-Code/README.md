@@ -3,3 +3,10 @@
 ## Contributors
 - Instructor: Adam Bailey
 - Student: Rajesh Ayyappanpillai
+
+
+## Group Members 
+
+Rajesh Ayyappan Pillai
+Bryan Cabrera
+Candice Garcia
